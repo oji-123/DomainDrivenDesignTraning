@@ -1,4 +1,4 @@
-package com.example.demo.model.circle;
+package com.example.demo.vo;
 
 import java.util.Objects;
 
